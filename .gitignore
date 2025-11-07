@@ -1,0 +1,31 @@
+# Arquivos de Dependências e Build (Node.js)
+node_modules/
+dist/
+build/
+.expo/
+
+# Arquivos de Ambiente e Segredos
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Binários e artefatos de compilação (Go)
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+_obj/
+_test/
+bin/
+pkg/
+
+# Arquivos de Sistema Operacional
+.DS_Store

@@ -1,0 +1,106 @@
+{
+  "header": {
+    "home": "Home",
+    "resources": "Resources",
+    "pricing": "Pricing",
+    "models": "Templates",
+    "contact": "Contact",
+    "earlyAccess": "Get Early Access"
+  },
+  "hero": {
+    "title": "The first no-code corporate portal in Brazil",
+    "subtitle": "Create unique experiences for your professionals without technical knowledge.",
+    "cta": "Get Early Access",
+    "scrollText": "Scroll to see more"
+  },
+  "features": {
+    "title": "Everything you need to create a modern portal",
+    "dragDrop": {
+      "title": "Simple and Intuitive Creation",
+      "description": "Drag and drop elements to create dynamic pages in minutes."
+    },
+    "customization": {
+      "title": "Total Customization",
+      "description": "Adapt colors, themes, and styles to reflect your identity."
+    },
+    "publishing": {
+      "title": "Simplified Publishing",
+      "description": "Share news and documents in just a few clicks."
+    },
+    "metrics": {
+      "title": "Real-Time Metrics",
+      "description": "Track engagement with detailed analytics."
+    },
+    "implementation": {
+      "title": "Quick Implementation",
+      "description": "Set up your portal in hours, not months."
+    },
+    "modules": {
+      "title": "Module Library",
+      "description": "Ready-made components, ideal for every need and purpose of your portal."
+    }
+  },
+  "flexibility": {
+    "title": "Freedom to create your site your way",
+    "subtitle": "Start from what your company needs.",
+    "categories": ["Franchises", "Communication", "Projects", "Departments", "Processes"],
+    "cta": "Get Early Access"
+  },
+  "pricing": {
+    "title": "Pricing",
+    "startup": {
+      "name": "Startup",
+      "price": "R$ 359,00",
+      "period": "per site",
+      "description": "For companies that are just starting",
+      "features": ["Up to 20 users, 1 administrator and 1 content administrator", "Static elements", "Basic features"]
+    },
+    "growth": {
+      "name": "Growth",
+      "price": "R$ 759,00",
+      "period": "per site",
+      "description": "For companies in expansion phase",
+      "features": [
+        "From 21 to 50 users, 2 administrators and 2 content administrators",
+        "Static and dynamic elements - Coming soon",
+        "Advanced features - Coming soon"
+      ]
+    },
+    "business": {
+      "name": "Business",
+      "price": "R$ 1.499,00",
+      "period": "per site",
+      "description": "For large companies with advanced resources",
+      "features": ["From 51 to 100 users, unlimited administrators", "Workflows - Coming soon", "+ Advanced features - Coming soon"]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Companies with highly customized demands",
+      "period": "",
+      "description": "Customize according to your needs",
+      "features": ["Customize according to your needs"]
+    }
+  },
+  "cta": {
+    "title": "Ready to transform your way of communicating?",
+    "subtitle": "Create, customize, and publish without complications. Try Hywork Cloud and revolutionize your internal communication!",
+    "button": "Get Early Access"
+  },
+  "footer": {
+    "developedBy": "Developed by"
+  },
+  "languageSwitcher": {
+    "language": "Language"
+  },
+  "earlyAccess": {
+    "title": "Request Early Access",
+    "subtitle": "Fill out the form below to secure your early access to the HyWork Cloud platform.",
+    "form": {
+      "name": "Full Name",
+      "email": "Corporate Email",
+      "company": "Company Name",
+      "position": "Position",
+      "submit": "Request Access"
+    }
+  }
+}

@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* === ANIMAÇÕES ECODIGITAL === */
+@keyframes graceful-fall {
+  from { transform: translateY(-10vh); }
+  to { transform: translateY(110vh); }
+}
+
+.leaf-container {
+  position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+  pointer-events: none; overflow: hidden;
+}
+
+.leaf {
+  position: absolute;
+  top: 0;
+  will-change: transform;
+  background-image: url('/images/folha.png');
+  background-size: contain; background-repeat: no-repeat;
+  animation: graceful-fall linear infinite;
+  animation-duration: var(--fall-duration);
+  animation-delay: var(--animation-delay);
+}
+
+/* app/globals.css */
+/* ... (outros estilos) ... */
+
+@layer utilities {
+  .icon-filter-green {
+    filter: brightness(0) saturate(100%) invert(54%) sepia(97%) saturate(749%) hue-rotate(98deg) brightness(92%) contrast(92%);
+  }
+}

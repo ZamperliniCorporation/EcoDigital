@@ -1,0 +1,106 @@
+  {
+    "header": {
+      "home": "Inicio",
+      "resources": "Recursos",
+      "pricing": "Precios",
+      "models": "Modelos",
+      "contact": "Contacto",
+      "earlyAccess": "Quiero Acceso Anticipado"
+    },
+  "hero": {
+    "title": "El primer portal corporativo sin código de Brasil",
+    "subtitle": "Crea experiencias únicas para tus profesionales sin necesidad de conocimientos técnicos.",
+    "cta": "Quiero Acceso Anticipado",
+    "scrollText": "Desplázate para ver más"
+  },
+  "features": {
+    "title": "Todo lo que necesitas para crear un portal moderno",
+    "dragDrop": {
+      "title": "Creación simple e intuitiva",
+      "description": "Arrastra y suelta elementos para crear páginas dinámicas en minutos."
+    },
+    "customization": {
+      "title": "Personalización Total",
+      "description": "Adapta colores, temas y estilos para reflejar tu identidad."
+    },
+    "publishing": {
+      "title": "Publicación Simplificada",
+      "description": "Comparte noticias y documentos con pocos clics."
+    },
+    "metrics": {
+      "title": "Métricas en Tiempo Real",
+      "description": "Sigue el compromiso con análisis detallados."
+    },
+    "implementation": {
+      "title": "Implementación Rápida",
+      "description": "Configura tu portal en horas, no en meses."
+    },
+    "modules": {
+      "title": "Biblioteca de Módulos",
+      "description": "Componentes listos, ideales para cada necesidad y propósito de tu portal."
+    }
+  },
+  "flexibility": {
+    "title": "Libertad para crear tu sitio a tu manera",
+    "subtitle": "Comienza desde lo que tu empresa necesita.",
+    "categories": ["Franquicias", "Comunicación", "Proyectos", "Departamentos", "Procesos"],
+    "cta": "Quiero Acceso Anticipado"
+  },
+  "pricing": {
+    "title": "Precios",
+    "startup": {
+      "name": "Startup",
+      "price": "R$ 359,00",
+      "period": "por sitio",
+      "description": "Para empresas que están comenzando",
+      "features": ["Hasta 20 usuarios, 1 administrador y 1 administrador de contenido", "Elementos estáticos", "Funcionalidades básicas"]
+    },
+    "growth": {
+      "name": "Growth",
+      "price": "R$ 759,00",
+      "period": "por sitio",
+      "description": "Para empresas en fase de expansión",
+      "features": [
+        "De 21 a 50 usuarios, 2 administradores y 2 administradores de contenido",
+        "Elementos estáticos y dinámicos - Próximamente",
+        "Funcionalidades avanzadas - Próximamente"
+      ]
+    },
+    "business": {
+      "name": "Business",
+      "price": "R$ 1.499,00",
+      "period": "por sitio",
+      "description": "Para grandes empresas con recursos avanzados",
+      "features": ["De 51 a 100 usuarios, administradores ilimitados", "Workflows - Próximamente", "+ Funcionalidades avanzadas - Próximamente"]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Empresas con demandas altamente personalizadas",
+      "period": "",
+      "description": "Personaliza según tus necesidades",
+      "features": ["Personaliza según tus necesidades"]
+    }
+  },
+  "cta": {
+    "title": "¿Listo para transformar tu forma de comunicar?",
+    "subtitle": "Crea, personaliza y publica sin complicaciones. ¡Prueba Hywork Cloud y revoluciona tu comunicación interna!",
+    "button": "Quiero Acceso Anticipado"
+  },
+  "footer": {
+    "developedBy": "Desarrollado por"
+  },
+  "languageSwitcher": {
+    "language": "Idioma"
+  },
+  "earlyAccess": {
+    "title": "Solicitar acceso anticipado",
+    "subtitle": "Complete el formulario a continuación para asegurar su acceso anticipado a la plataforma HyWork Cloud.",
+    "form": {
+      "name": "Nombre completo",
+      "email": "Correo electrónico corporativo",
+      "company": "Nombre de la empresa",
+      "position": "Cargo",
+      "submit": "Solicitar acceso"
+    }
+  }
+}

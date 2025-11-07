@@ -1,0 +1,137 @@
+{
+  "header": {
+    "home": "Home",
+    "resources": "Recursos",
+    "pricing": "Preço",
+    "models": "Modelos",
+    "contact": "Contato",
+    "earlyAccess": "Agendar Demonstração"
+  },
+  "hero": {
+    "title": "A maneira mais inteligente de criar sua intranet",
+    "subtitle": "Crie experiências únicas para sua equipe. Simples, rápido, sem barreiras.",
+    "cta": "Agendar Demonstração",
+    "scrollText": "Role para ver mais"
+  },
+  "features": {
+    "title": "Tudo que você precisa para criar uma intranet moderna",
+    "dragDrop": {
+      "title": "Construção Fácil",
+      "description": "Arraste e solte elementos para criar páginas dinâmicas em minutos. "
+    },
+    "customization": {
+      "title": "Personalização Total",
+      "description": "Adapte cores, temas e estilos para refletir sua identidade."
+    },
+    "publishing": {
+      "title": "Publicação Simplificada",
+      "description": "Compartilhe notícias e documentos em poucos cliques."
+    },
+    "metrics": {
+      "title": "Métricas em Tempo Real",
+      "description": "Acompanhe o engajamento com analytics detalhados."
+    },
+    "implementation": {
+      "title": "Implementação Rápida",
+      "description": "Configure seu portal em questão de horas, não meses."
+    },
+    "modules": {
+      "title": "Biblioteca de Modelos",
+      "description": "Comece com modelos ideais para cada necessidade e personalize do seu jeito."
+    }
+  },
+  "quickProcess": {
+    "title": "Veja como é rápido",
+    "steps": {
+      "createSpace": {
+        "title": "Crie seu espaço",
+        "description": "Configure seu ambiente de trabalho personalizado"
+      },
+      "accessGroups": {
+        "title": "Crie grupos de acesso",
+        "description": "Defina permissões e organize sua equipe"
+      },
+      "customizeIntranet": {
+        "title": "Comece a personalizar sua intranet",
+        "description": "Use nosso editor drag & drop para criar páginas incríveis"
+      },
+      "publish": {
+        "title": "Publique",
+        "description": "Torne seu conteúdo visível para toda a equipe"
+      },
+      "inviteUsers": {
+        "title": "Convide os usuários",
+        "description": "Adicione sua equipe e comece a colaborar"
+      }
+    }
+  },
+  "flexibility": {
+    "title": "Liberdade para o seu negócio",
+    "subtitle": "Comece a partir do que sua empresa precisa.",
+    "categories": ["Portal do Cliente", "Portal do Fornecedor", "Portal do Funcionário", "Intranet", "Obras", "Franquias"],
+    "cta": "Agendar Demonstração"
+  },
+  "pricing": {
+    "title": "Preço",
+    "startup": {
+      "name": "Startup",
+      "price": "R$ 359,00",
+      "period": "por mês para cada site",
+      "description": "Para empresas que estão começando",
+      "features": ["Até 20 usuários, 1 administrador e 1 administrador de conteúdo", "Elementos estáticos", "Funcionalidades básicas"]
+    },
+    "growth": {
+      "name": "Growth",
+      "price": "R$ 759,00",
+      "period": "por mês para cada site",
+      "description": "Para empresas em fase de expansão",
+      "features": [
+        "De 21 até 50 usuários, 2 administradores e 2 administradores de conteúdo",
+        "Elementos estáticos e dinâmicos ",
+        "Rede Social",
+        "Gamificação"
+      ]
+    },
+    "business": {
+      "name": "Business",
+      "price": "R$ 1.499,00",
+      "period": "por mês para cada site",
+      "description": "Para grandes empresas com recursos avançados",
+      "features": [
+        "De 50 a 100 usuários, 2 administradores e 2 administradores de conteúdo",
+        "Workflows",
+        "Relatórios Personalizados",
+        "Integrações com outras plataformas"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Empresas com demandas avançadas de personalização",
+      "period": "",
+      "description": "",
+      "features": ["Personalização de acordo com a sua necessidade"]
+    }
+  },
+  "cta": {
+    "title": "Pronto para transformar sua forma de comunicar?",
+    "subtitle": "Crie, personalize e publique sem complicações. Experimente o Hywork Cloud e revolucione sua comunicação interna!",
+    "button": "Agendar Demonstração"
+  },
+  "footer": {
+    "developedBy": "Desenvolvido por"
+  },
+  "languageSwitcher": {
+    "language": "Idioma"
+  },
+  "earlyAccess": {
+    "title": "Agendar Demonstração",
+    "subtitle": "Preencha o formulário abaixo para garantir seu acesso antecipado à plataforma HyWork Cloud.",
+    "form": {
+      "name": "Nome completo",
+      "email": "E-mail corporativo",
+      "company": "Nome da empresa",
+      "position": "Cargo",
+      "submit": "Solicitar acesso"
+    }
+  }
+}
